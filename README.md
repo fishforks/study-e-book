@@ -1,12 +1,13 @@
 ### study-e-book
 最近整理了一下以前百度云、自己电脑收藏的一些电子书，分享出来，有需要的自取。
-自取的同时请大家[star](https://github.com/Han-Ya-Jun/study-e-book)下哈，整理不易。
+自取的同时请大家[star](https://github.com/Han-Ya-Jun/study-e-book)下哈，整理不易，后续也会持续更新的。
 </br> </br>注：*所有书籍类资源都逃不过版权问题，这个层面上还是希望有能力的人支持正版
 书籍有版权，知识却没有，任何学习的行为都值得被鼓励*
 ### 提取方法
 - 链接：https://pan.baidu.com/s/143-g1YVM4AD96KBUsUv87A 
 - 提取码：wavk 
-
+### 更新日志
+- 2019-06-02 初始提交
 ![](http://cdn.hanyajun.com/20190602_025454_baiduyun.jpg)
 ### 电子书目录
 ```
