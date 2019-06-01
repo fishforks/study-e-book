@@ -6,9 +6,9 @@
 ### 提取方法
 - 链接：https://pan.baidu.com/s/143-g1YVM4AD96KBUsUv87A 
 - 提取码：wavk 
+![](http://cdn.hanyajun.com/20190602_025454_baiduyun.jpg)
 ### 更新日志
 - 2019-06-02 初始提交
-![](http://cdn.hanyajun.com/20190602_025454_baiduyun.jpg)</br>
 ### 电子书目录
 ```
 study-e-book
